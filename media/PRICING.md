@@ -41,7 +41,25 @@
 
 ---
 
-### 3. Enterprise License - $99 USD
+### 3. Individual License - $59 USD
+
+**Best for:** Individual developers, freelancers, personal projects
+
+**Includes:**
+- ✅ **Unlimited projects** for personal use
+- ✅ **Lifetime** updates and bug fixes
+- ✅ Priority email support
+- ✅ License certificate
+- ✅ Unique license key
+
+**Restrictions:**
+- Limited to personal/individual use only
+- Cannot be used for commercial client work
+- Cannot be shared with others
+
+---
+
+### 4. Enterprise License - $129 USD
 
 **Best for:** Companies, organizations, internal tools
 
@@ -56,23 +74,6 @@
 **Restrictions:**
 - Limited to 1 company/organization
 - Cannot be shared with other companies
-
----
-
-### 4. Unlimited License - $149 USD
-
-**Best for:** Software vendors, agencies serving multiple clients, maximum flexibility
-
-**Includes:**
-- ✅ **Unlimited projects** (no restrictions)
-- ✅ **Lifetime updates** and bug fixes
-- ✅ Priority support
-- ✅ **Ongoing consultation** (as needed)
-- ✅ License certificate
-- ✅ Unique license key
-
-**Restrictions:**
-- None - maximum flexibility
 
 ---
 
