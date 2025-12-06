@@ -18,8 +18,8 @@
 |-------------|-------------|----------|---------|---------|
 | **Single Project** | $4 | 1 project | 1 year | Email |
 | **Multi-Project** | $10 | Up to 5 projects | 1 year | Priority Email |
-| **Enterprise** | $99 | Unlimited (1 company) | Lifetime | Priority + Consultation |
-| **Unlimited** | $129 | Unlimited (no restrictions) | Lifetime | Priority + Ongoing Support |
+| **Individual** | $59 | Unlimited (personal use) | Lifetime | Priority Email |
+| **Enterprise** | $129 | Unlimited (1 company) | Lifetime | Priority + Consultation |
 
 **Enterprise/Custom Pricing:** Available for large organizations - contact for quotes.
 
